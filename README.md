@@ -64,7 +64,7 @@ Each component runs as an independent microservice inside Kubernetes.
 - Resolving Redis connectivity issues in distributed environment
 - Handling YAML configuration errors and indentation issues
 - Managing namespace isolation across microservices
-- Ensuring proper resource allocation for stable deployments
+
 ## 🔮 Future Improvements
 - Implement CI/CD pipeline using GitHub Actions
 - Deploy on AWS EKS for production-grade environment
